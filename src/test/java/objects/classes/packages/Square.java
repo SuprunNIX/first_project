@@ -1,6 +1,6 @@
 package objects.classes.packages;
 
-public class Square extends figur{
+public class Square extends Figure {
     private static final String NAME = "Square";
 
     private double side;

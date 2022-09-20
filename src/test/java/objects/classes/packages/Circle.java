@@ -1,6 +1,6 @@
 package objects.classes.packages;
 
-public class Circle extends figur {
+public class Circle extends Figure {
     private static final String NAME = "Circle";
 
     private double radius;

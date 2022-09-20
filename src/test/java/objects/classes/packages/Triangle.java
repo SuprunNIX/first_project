@@ -1,6 +1,6 @@
 package objects.classes.packages;
 
-public class Triangle extends figur{
+public class Triangle extends Figure {
     private static final String NAME = "Triangle";
 
     private double sideA;
